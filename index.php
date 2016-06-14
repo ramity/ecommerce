@@ -2,7 +2,7 @@
 	<head>
 		<title>Ecommerce Home</title>
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" type="text/css" href="https://ramity.com/projects/ecommerce/css/index.css">
+		<link rel="stylesheet" type="text/css" href="css/index.css">
 		<!--
 		<meta charset='UTF-8'>
 		<meta name='keywords' content='your, tags'>
@@ -56,12 +56,12 @@
 			<div id="headerinr">
 				<div id="headerlogo">Ramity Store</div>
 				<div id="headernav">
-					<div class="headernavitem">Home<img class="headernavitemsprite" src="https://ramity.com/projects/ecommerce/img/darrow.png">
+					<div class="headernavitem">Home<img class="headernavitemsprite" src="img/darrow.png">
 						<div class="headernavitemdrop"></div>
 					</div>
 					<div class="headernavitem">Featured</div>
 					<div class="headernavitem">Blog</div>
-					<div class="headernavitem">Community<img class="headernavitemsprite" src="https://ramity.com/projects/ecommerce/img/darrow.png">
+					<div class="headernavitem">Community<img class="headernavitemsprite" src="img/darrow.png">
 						<div class="headernavitemdrop"></div>
 					</div>
 					<div class="headernavitem">Process</div>
@@ -125,11 +125,11 @@
 				</div>
 				<div id="rightcontent">
 					<div id="topnav">
-						<form id="topnavsearch" action="https://ramity.com/projects/ecommerce/" method="GET">
+						<form id="topnavsearch" action="/" method="GET">
 							<input id="topnavsearchtext" type="text" value="" name="" placeholder="Search...">
 							<input id="topnavsearchsubmit" type="submit" value="Search" name="">
 						</form>
-						<div id="topnavcart"><img src="https://ramity.com/projects/ecommerce/img/scart.png">(0)</div>
+						<div id="topnavcart"><img src="img/scart.png">(0)</div>
 					</div>
 					<div id="gallery">
 						<div id="gallerytitle">

@@ -196,7 +196,7 @@ width:60px;
 height:60px;
 border-radius:60px;
 margin:10px 0px 10px 10px;
-background-image:url('https://ramity.com/projects/ecommerce/img/profile.png');
+background-image:url('../img/profile.png');
 background-size:cover;
 }
 div#gallerytitletext
@@ -212,7 +212,7 @@ div#galleryphoto
 {
 width:780px;
 height:440px;
-background-image:url('https://ramity.com/projects/ecommerce/img/pc_beauty.png');
+background-image:url('../img/pc_beauty.png');
 background-size:100% 100%;
 }
 div.galleryproductname
